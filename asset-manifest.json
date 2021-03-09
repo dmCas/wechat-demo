@@ -1,23 +1,17 @@
 {
   "files": {
-    "main.css": "/wechat-demo/static/css/main.9d5b29c0.chunk.css",
-    "main.js": "/wechat-demo/static/js/main.d5228759.chunk.js",
-    "main.js.map": "/wechat-demo/static/js/main.d5228759.chunk.js.map",
-    "runtime-main.js": "/wechat-demo/static/js/runtime-main.3f84cc90.js",
-    "runtime-main.js.map": "/wechat-demo/static/js/runtime-main.3f84cc90.js.map",
-    "static/js/2.78286d2b.chunk.js": "/wechat-demo/static/js/2.78286d2b.chunk.js",
-    "static/js/2.78286d2b.chunk.js.map": "/wechat-demo/static/js/2.78286d2b.chunk.js.map",
-    "static/js/3.42306030.chunk.js": "/wechat-demo/static/js/3.42306030.chunk.js",
-    "static/js/3.42306030.chunk.js.map": "/wechat-demo/static/js/3.42306030.chunk.js.map",
+    "main.js": "/wechat-demo/static/js/main.ab7a5243.chunk.js",
+    "main.js.map": "/wechat-demo/static/js/main.ab7a5243.chunk.js.map",
+    "runtime-main.js": "/wechat-demo/static/js/runtime-main.a16a9416.js",
+    "runtime-main.js.map": "/wechat-demo/static/js/runtime-main.a16a9416.js.map",
+    "static/js/2.53f1e4a1.chunk.js": "/wechat-demo/static/js/2.53f1e4a1.chunk.js",
+    "static/js/2.53f1e4a1.chunk.js.map": "/wechat-demo/static/js/2.53f1e4a1.chunk.js.map",
     "index.html": "/wechat-demo/index.html",
-    "static/css/main.9d5b29c0.chunk.css.map": "/wechat-demo/static/css/main.9d5b29c0.chunk.css.map",
-    "static/js/2.78286d2b.chunk.js.LICENSE.txt": "/wechat-demo/static/js/2.78286d2b.chunk.js.LICENSE.txt",
-    "static/media/logo.6ce24c58.svg": "/wechat-demo/static/media/logo.6ce24c58.svg"
+    "static/js/2.53f1e4a1.chunk.js.LICENSE.txt": "/wechat-demo/static/js/2.53f1e4a1.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.3f84cc90.js",
-    "static/js/2.78286d2b.chunk.js",
-    "static/css/main.9d5b29c0.chunk.css",
-    "static/js/main.d5228759.chunk.js"
+    "static/js/runtime-main.a16a9416.js",
+    "static/js/2.53f1e4a1.chunk.js",
+    "static/js/main.ab7a5243.chunk.js"
   ]
 }
